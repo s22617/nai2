@@ -1,22 +1,4 @@
-## 💡 About this project
-
-The program utilizes fuzzy logic to describe relationship between the global diesel price and the price in Poland.
-
-## 🛠️ Project setup
-
-To run this project make sure that you:
-
-- download Python 3
-- download and install numpy with the following command via the terminal:
-  `pip install numpy`,
-- download and install skfuzyy with the following command via the terminal:
-  `pip install scikit-fuzzy`
-- and launch the project from your favorite IDE or with the following command:
-  `python main.py`
-
-## 🏷️ License
-
-[MIT License](https://opensource.org/licenses/MIT)
+MIT License
 
 Copyright (c) 2023-PRESENT Daniel Wirzba Kajetan Welc
 
